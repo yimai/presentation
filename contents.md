@@ -1,15 +1,16 @@
 ## Alexa for Business を活用して VUI で Zoom を利用した話
-## Yusuke Imai
+## Yusuke Imai [@imaixy](https://twitter.com/imaixy)
 ### April 26th, 2019
 
 
 >>>
-## Agenda
+## Overview
 - Alexa for Business とは?
 - Zoom Cloud Meeting とは?
 - やってみたこと
 - わかったこと
 - ノウハウ
+- 参考URL
 
 
 >>>
@@ -44,6 +45,11 @@
 - 共有デバイス向けスキルは充実、**個人デバイス向けスキルは要個別開発**
 - 個人デバイス向けスキル開発は **Alexa for Business Blueprints** で実装可
 
+
+>>>
+## 参考URL
+- [Configure Alexa for Zoom Rooms](https://support.zoom.us/hc/en-us/articles/360000164106-Configure-Alexa-for-Zoom-Rooms)
+- [My Website (using Github Pages)](https://biz-beyond.com)
 
 >>>
 # Thank you for your attention!
