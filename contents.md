@@ -1,5 +1,6 @@
 ## Alexa for Business を活用して VUI で Zoom を利用した話
 ## Yusuke Imai
+### April 26th, 2019
 
 
 >>>
@@ -14,11 +15,15 @@
 >>>
 ## Alexa for Business とは?
 ### Alexaをビジネス活用するためのプラットフォーム
+### 会議室等で複数人が利用することが想定されている「共有デバイス」と、個人のスマートスピーカーで個人の利用が想定されている「個人デバイス」に分類
+![](https://echodotroom.com/wp-content/uploads/2018/05/alexa-for-business-01-500x197.png)
 
 
 >>>
 ## Zoom Cloud Meeting とは?
 ### 近年注目されるSaaS型ビデオ会議ソリューション
+### TV会議とWeb会議のメリットを併せ持つ次世代のコラボレーションツール
+![](https://lh3.googleusercontent.com/1DqxbUca62LmV1ehZirHGWYBef9Jrtl3DhZ4m6YBnWCUX-XNr3lcnYKb31R-7ukpKAw=s180-rw)
 
 
 >>>
@@ -29,11 +34,16 @@
 >>>
 ## わかったこと
 ### 電話会議と同様の品質で遠隔地と会議をすることが可能
+![](http://navi.jade-corp.jp/wp-content/uploads/2016/06/eb4367af2f8da1642c8cdab685566c37.jpg)
 
 
 >>>
 ## ノウハウ
-### Alexa for Business を始めるなら us-east-1 しか選べない
-### Alexa for Business を使うなら Echo Plus の利用を推奨
+### Alexa for Business を始めるなら今は us-east-1 しか選べない
+### Alexa for Business を使うなら今は Echo Plus の利用を推奨
+### 共有デバイス向けスキルは充実しているが、個人デバイス向けスキルはプライベートスキルとして個別に開発する必要がある
+### 個人デバイス向けスキル開発は Alexa for Business Blueprints なら簡単にできる
 
-Note: これは発表者ノート
+
+>>>
+## Thank you for your attention!
