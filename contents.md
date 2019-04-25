@@ -23,13 +23,14 @@
 >>>
 ## Zoom Cloud Meeting とは?
 - SaaS型ビデオ会議ソリューション
-- TV会議とWeb会議のメリットを併せ持つ次世代のコラボレーションツール
-![](https://github.com/yimai/presentation/blob/master/zoom.png)
+- TV会議とWeb会議のメリットを併せ持つ次世代のコラボツール
+![](https://github.com/yimai/presentation/blob/master/zoom.png?raw=true)
+
 
 >>>
 ## やってみたこと
 - Alexa for Business を利用して Echo Plus から Zoom Rooms に接続
-![](https://github.com/yimai/presentation/blob/master/system.png)
+![](https://github.com/yimai/presentation/blob/master/system.png?raw=true)
 
 
 >>>
