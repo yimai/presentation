@@ -36,7 +36,7 @@
 >>>
 ## わかったこと
 - **電話会議と同様の品質** で遠隔地と会議をすることが可能
-![](http://navi.jade-corp.jp/wp-content/uploads/2016/06/eb4367af2f8da1642c8cdab685566c37.jpg)
+![](http://img07.shop-pro.jp/PA01031/362/etc/3_teleconference_explanation2.jpg)
 
 
 >>>
