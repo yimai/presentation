@@ -49,12 +49,12 @@
 >>>
 ## 参考URL
 - [Configure Alexa for Zoom Rooms](https://support.zoom.us/hc/en-us/articles/360000164106-Configure-Alexa-for-Zoom-Rooms)
-- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (1)](https://blogs.biz-beyond.com/2019/03/a4b-to-zoom-1/)
-- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (2)](https://blogs.biz-beyond.com/2019/03/a4b-to-zoom-2/)
-- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (3)](https://blogs.biz-beyond.com/2019/03/a4b-to-zoom-3/)
-- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (4)](https://blogs.biz-beyond.com/2019/03/a4b-to-zoom-4/)
-- [Alexa for Business Blueprints でスキルを開発 (1)](https://blogs.biz-beyond.com/2019/04/alexa-for-business-blueprints-1/)
-- [Alexa for Business Blueprints でスキルを開発 (2)](https://blogs.biz-beyond.com/2019/04/alexa-for-business-blueprints-2/)
+- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (1)](https://biz-beyond.com/2019/03/a4b-to-zoom-1/)
+- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (2)](https://biz-beyond.com/2019/03/a4b-to-zoom-2/)
+- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (3)](https://biz-beyond.com/2019/03/a4b-to-zoom-3/)
+- [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (4)](https://biz-beyond.com/2019/03/a4b-to-zoom-4/)
+- [Alexa for Business Blueprints でスキルを開発 (1)](https://biz-beyond.com/2019/04/alexa-for-business-blueprints-1/)
+- [Alexa for Business Blueprints でスキルを開発 (2)](https://biz-beyond.com/2019/04/alexa-for-business-blueprints-2/)
 
 
 >>>
