@@ -7,11 +7,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/lib/css/zenburn.min.css" />
 
 <script>
-  var link = document.createElement( 'link' );
-  link.rel = 'stylesheet';
-  link.type = 'text/css';
-  link.href = window.location.search.match( /print-pdf/gi ) ? '../reveal.js/css/print/pdf.css' : '../reveal.js/css/print/paper.css';
-  document.getElementsByTagName( 'head' )[0].appendChild( link );
+let link = document.createElement('link');
+link.rel = 'stylesheet';
+link.type = 'text/css';
+link.href = window.location.search.match(/print-pdf/gi) ?
+         'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/print/pdf.min.css' :
+         'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/css/print/paper.min.css';
+document.getElementsByTagName('head')[0].appendChild(link);
 </script>
 
 <div class="reveal">
