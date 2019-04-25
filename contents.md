@@ -1,6 +1,7 @@
 ## Alexa for Business を活用して VUI で Zoom を利用した話
 ## Yusuke Imai [@imaixy](https://twitter.com/imaixy)
 ### April 26th, 2019
+#### It's made by Reveal.js
 
 
 >>>
