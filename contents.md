@@ -17,6 +17,7 @@
 ## Alexa for Business とは?
 - Alexaをビジネス活用するための VUI プラットフォーム
 - 会議室での利用が想定されている「共有デバイス」と、個人のスマートスピーカーで個人の利用が想定されている「個人デバイス」に分類
+
 ![](https://echodotroom.com/wp-content/uploads/2018/05/alexa-for-business-01-500x197.png)
 
 
@@ -24,18 +25,21 @@
 ## Zoom Cloud Meeting とは?
 - SaaS型ビデオ会議ソリューション
 - TV会議とWeb会議のメリットを併せ持つ次世代のコラボツール
+
 ![](https://github.com/yimai/presentation/blob/master/zoom.png?raw=true)
 
 
 >>>
 ## やってみたこと
 - Alexa for Business を利用して Echo Plus から Zoom Rooms に接続
+
 ![](https://github.com/yimai/presentation/blob/master/system.png?raw=true)
 
 
 >>>
 ## わかったこと
 - **電話会議と同様の品質** で遠隔地と会議をすることが可能
+
 ![](http://img07.shop-pro.jp/PA01031/362/etc/3_teleconference_explanation2.jpg)
 
 
@@ -49,6 +53,7 @@
 
 >>>
 ## 参考URL
+
 - [Configure Alexa for Zoom Rooms](https://support.zoom.us/hc/en-us/articles/360000164106-Configure-Alexa-for-Zoom-Rooms)
 - [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (1)](https://biz-beyond.com/2019/03/a4b-to-zoom-1/)
 - [Alexa for Business に登録された Alexa搭載デバイス から Zoom (Zoom Rooms) に接続する方法 (2)](https://biz-beyond.com/2019/03/a4b-to-zoom-2/)
