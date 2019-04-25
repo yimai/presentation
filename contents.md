@@ -5,11 +5,12 @@
 ## Alexa for Business を活用して VUI で Zoom を利用した話
 ## Yusuke Imai [@imaixy](https://twitter.com/imaixy)
 ### April 26th, 2019
-#### It's made by Reveal.js
+#### It's made by [Reveal.js](https://revealjs.com/#/)
 
 
 >>>
 ## Overview
+
 - Alexa for Business とは?
 - Zoom Cloud Meeting とは?
 - やってみたこと
@@ -50,6 +51,7 @@
 
 >>>
 ## ノウハウ
+
 - Alexa for Business を始めるなら今は **us-east-1** しか選べない
 - Alexa for Business を使うなら今は **Echo Plus** の利用を推奨
 - 共有デバイス向けスキルは充実、**個人デバイス向けスキルは要個別開発**
